@@ -38,6 +38,19 @@
     background: url("https://e0.pxfuel.com/wallpapers/850/763/desktop-wallpaper-construction-site-construction-work.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
 /* ------------Hero Section End------------- */
+
+/* ------------Service Section Start------------- */
+.service{
+    width: 100%;
+    height: 500px;
+}
+
+.service img{
+    width: 29%;
+    height: 90%;
+    margin: 2%;
+}
+/* ------------Service Section End------------- */
