@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+    /* ------------Nav Section Start------------- */
+    .nav{
+        width: 100%;
+        padding: 2%;
+    background:linear-gradient(rgba(0, 0, 0, 1),
+    rgba(0, 0, 0, 0.9),
+    rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.7));
+    
+}
+
+.nav .nav_item{
+    display: inline-block;
+    margin-inline: 5%;
+    color: #ffffff;
+}
+
+.nav_active{
+    background: #ffffff;
+    
+    padding: 0.6% 1.5%;
+}
+
+.nav_active span{
+    color: #000000;
+}
+/* ------------Nav Section End------------- */
