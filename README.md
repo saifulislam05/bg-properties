@@ -7,19 +7,23 @@ This project showcases various CSS background properties, including gradient bac
 ## HTML Structure
 
 ### Nav Section (`.nav`)
+![image](https://github.com/saifulislam05/bg-properties/assets/73392705/ff35bf07-6cad-4d99-9a48-6f1afd9a8efd)
 - Contains navigation items with a gradient background.
 - Navigation items are displayed horizontally with a margin between them.
 - The active navigation item has a different background color.
 
 ### Hero Section (`.hero`)
+![image](https://github.com/saifulislam05/bg-properties/assets/73392705/06ff373a-d8d6-4439-87fb-c53b1e5eaf2b)
 - Displays a full-width hero section with a background image.
 - The background image covers the entire section.
 
 ### Service Section (`.service`)
+![image](https://github.com/saifulislam05/bg-properties/assets/73392705/51c6f201-ed08-4cdc-a0ce-a3aae225e4a3)
 - Demonstrates the use of background images within a container.
 - Each image is displayed with a specific width, height, and margin.
 
 ### About Section (`.about`)
+![image](https://github.com/saifulislam05/bg-properties/assets/73392705/cd777a88-6684-47e6-8553-71cba1b35383)
 - Utilizes a black background with padding.
 - Contains textual content and an image displayed side by side.
 
